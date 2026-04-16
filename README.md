@@ -3,7 +3,7 @@
 Software Engineer (Frontend – React/Next.js, React Native)
 
 ## 🚀 What I build
-- Modern web apps
+- Modern web and mobile apps
 - Responsive UIs
 - API-driven apps
 
