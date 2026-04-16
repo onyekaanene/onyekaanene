@@ -1,4 +1,19 @@
-## Hi there 👋
+
+# Hi, I'm Onyekachukwu Anene 👋
+Software Engineer (Frontend – React/Next.js, React Native)
+
+## 🚀 What I build
+- Modern web apps
+- Responsive UIs
+- API-driven apps
+
+## 🔥 Projects
+- SaaS Dashboard (to be uploaded soon)
+- Improved Tic-Tac-Toe game (with dynamic board and better UI)
+
+## 📫 Contact
+Email: **onyekachukwu.anene@gmail.com** / LinkedIn: **www.linkedin.com/in/onyekachukwu-anene**
+
 
 <!--
 **onyekaanene/onyekaanene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
