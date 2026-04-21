@@ -12,7 +12,7 @@ Software Engineer (Frontend – React/Next.js, React Native)
 - **Improved Tic-Tac-Toe game:** The popular Tic-Tac-Toe game redesigned to have a dynamic board, custom win logic, enhanced user experience and better UI. Built with Next.js and React. 📂 Repo: https://github.com/onyekaanene/Tic-Tac-Toe-Game_Dynamic-Grid-Nextjs
 
 ## 📫 Contact
-Email: **onyekachukwu.anene@gmail.com** / LinkedIn: **www.linkedin.com/in/onyekachukwu-anene**
+Email: **onyekaspen@onyekaanene.com** / LinkedIn: **www.linkedin.com/in/onyekachukwu-anene**
 
 
 <!--
