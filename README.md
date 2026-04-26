@@ -1,6 +1,6 @@
 
 # Hi, I'm Onyekachukwu Anene 👋
-Software Engineer (Frontend – React/Next.js, React Native)
+Software Engineer (Applied AI & SaaS)
 
 ## 🚀 What I build
 - AI-powered Modern web and mobile apps
