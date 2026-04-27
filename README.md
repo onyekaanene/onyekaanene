@@ -3,7 +3,7 @@
 Software Engineer (Applied AI & SaaS)
 
 ## 🚀 What I build
-- AI-powered Modern web and mobile apps
+- AI-powered modern web and mobile apps
 - Responsive UIs
 - API-driven apps
 
