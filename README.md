@@ -1,5 +1,5 @@
 
-# Hi, I'm Onyekachukwu Anene 👋
+# Hi, I'm Onyeka 👋
 I’m a Software Engineer (Applied AI & SaaS) with 5+ years of experience building web and mobile applications that people actually use. Most of my work focuses on Next.js, React Native, and PostgreSQL (Supabase, Prisma), where I design and ship scalable products from idea to production. 
 
 Lately, I’ve been working more with AI integrations (LLMs, APIs, automation workflows)—building features like assistants, smart search, and workflow automation into real apps. I enjoy working across the stack, especially on products that require both solid engineering and thoughtful user experience. I’m particularly interested in how AI can move beyond hype and become genuinely useful in everyday software. I also share what I learn along the way — mainly around JavaScript, React, and building AI-powered products.
