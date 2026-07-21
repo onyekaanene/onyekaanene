@@ -9,8 +9,8 @@ Lately, I've been working more with AI integrations (LLMs, APIs, automation work
 - API-driven apps
 
 ## 🛠️ Products I've Built
-- **[Wazabot](https://www.wazabot.com)** — A WhatsApp-based AI customer support SaaS that helps businesses automate conversations without losing the personal touch. Built with Next.js 14 (App Router), Supabase, the Anthropic Claude API, and the WhatsApp Cloud API, including the full multi-tenant auth and data layer.
-- **[Focuswip](https://www.focuswip.com)** — A role-based workforce shift-scheduling platform with organization-level data isolation. Built with Next.js 15, Supabase, and Tailwind CSS, using Postgres Row-Level Security to keep every org's data cleanly separated.
+- **[Wazabot](https://wazabot.com)** — A WhatsApp-based AI customer support SaaS that helps businesses automate conversations without losing the personal touch. Built with Next.js 14 (App Router), Supabase, the Anthropic Claude API, and the WhatsApp Cloud API, including the full multi-tenant auth and data layer.
+- **[Focuswip](https://focuswip.com)** — A role-based workforce shift-scheduling platform with organization-level data isolation. Built with Next.js 15, Supabase, and Tailwind CSS, using Postgres Row-Level Security to keep every org's data cleanly separated.
 
 ## 🔥 Personal Projects
 - **[Job Tracker App](https://job-tracker.onyekaanene.com)** — An AI-powered full-stack job application tracking app that helps job seekers organize, track, and manage their applications. Built with Anthropic Claude API, Next.js 14 App Router, TypeScript, Supabase Auth + PostgreSQL, and Zustand.
