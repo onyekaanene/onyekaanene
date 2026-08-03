@@ -1,7 +1,9 @@
 # Hi, I'm Onyeka 👋
-I'm a software engineer and co-founder with 7+ years building production web and mobile apps — Next.js, React Native, PostgreSQL/Supabase — and applied-AI features on top of them, mostly with the Anthropic Claude API.
- 
-I co-founded Bauswip, an AI-first software agency, where I've shipped two live SaaS products (Wazabot, a WhatsApp-based AI customer support platform, and Focuswip, a workforce shift-scheduling tool) plus multiple client platforms end-to-end — architecture through deployment. I'm now looking for a full-time engineering role where I can bring that product-ownership and AI-integration experience to a larger team.
+I am a Software Engineer with 7+ years of experience designing, building, and deploying production web and mobile SaaS applications using Next.js, React, React Native, TypeScript, PostgreSQL/Supabase, and modern AI technologies. I specialize in building multi-tenant SaaS platforms, AI-powered workflows, and secure cloud applications from architecture through production deployment.
+
+As Lead Software Engineer at Bauswip Limited, I have led the engineering of multiple commercial products, including AI-enabled customer support systems, workforce management platforms, healthcare applications, and internal business systems. My experience spans full-stack development, cloud architecture, API integrations, authentication and authorization, AI feature implementation, and technical leadership.
+
+I am seeking a long-term engineering role where I can contribute strong product ownership, technical leadership, and practical AI engineering experience to a high-performing team.
 
 ## 🚀 What I build
 - AI-powered modern web and mobile apps
